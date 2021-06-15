@@ -10,4 +10,4 @@ In this lesson, we will learn about things like -
 - Functional requirements as a factor for choosing an architecture.
 - Available resources as another factor for choosing an architecture.
 - Monoliths & Microservices approch
-- Trade-offs assciated with these approaches.
+- Trade-offs associated with these approaches.
